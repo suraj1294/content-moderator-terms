@@ -1,0 +1,16 @@
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\content-moderator-terms.exe
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\content-moderator-terms.deps.json
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\content-moderator-terms.runtimeconfig.json
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\content-moderator-terms.runtimeconfig.dev.json
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\content-moderator-terms.dll
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\content-moderator-terms.pdb
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.ContentModerator.dll
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\poc\dotnetcore\content-moderator-terms\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\poc\dotnetcore\content-moderator-terms\obj\Debug\netcoreapp3.1\content-moderator-terms.csprojAssemblyReference.cache
+D:\poc\dotnetcore\content-moderator-terms\obj\Debug\netcoreapp3.1\content-moderator-terms.AssemblyInfoInputs.cache
+D:\poc\dotnetcore\content-moderator-terms\obj\Debug\netcoreapp3.1\content-moderator-terms.AssemblyInfo.cs
+D:\poc\dotnetcore\content-moderator-terms\obj\Debug\netcoreapp3.1\content-moderator-terms.csproj.CopyComplete
+D:\poc\dotnetcore\content-moderator-terms\obj\Debug\netcoreapp3.1\content-moderator-terms.dll
+D:\poc\dotnetcore\content-moderator-terms\obj\Debug\netcoreapp3.1\content-moderator-terms.pdb
